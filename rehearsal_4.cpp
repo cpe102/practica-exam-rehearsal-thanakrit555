@@ -1,6 +1,8 @@
 #include <iostream>
 
-//Write compress() here.
+string conpress(){
+    string a;
+}
 
 int main()
 {

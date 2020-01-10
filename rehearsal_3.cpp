@@ -1,7 +1,12 @@
 #include <iostream>
+#include <cmath>
+using namespace std;
 
-//Write sumSqrt() here.
 
+double sumSqrt(double N);
+double s = 1+(1/squrt(2))+(1/squrt(3))+(1/squrt(4))+(1/squrt(N));
+return s;
+   
 
 int main()
 {
